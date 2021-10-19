@@ -1,3 +1,5 @@
-name = input(prompt="What is your name? ")
-age = input(prompt = "What is your age? ")
+nameASK = "What is Your Name? "
+ageASK = "What is Your Age? "
+name = input(prompt= nameASK)
+age = input(prompt = ageASK)
 print(name, " is ",age," years old.")
