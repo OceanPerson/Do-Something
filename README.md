@@ -1,2 +1,2 @@
 # Do-Something
-It do something, not sure what.
+It does something, not sure what.
