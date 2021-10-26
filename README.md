@@ -10,3 +10,9 @@ This code can only be used to put someone's name and age in the sentence provide
 
 # How to contribute
 Please do not contribute :)
+
+# Why we chose the licesnse
+We chose the license because it is permissive and not too complicated and we are not concerned about people using our code. 
+
+# Why we chose the code of conduct
+We chose the code of conduct because we agree with the rules and it is suggested by GitHub
